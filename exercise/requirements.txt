@@ -1,0 +1,8 @@
+numpy
+tensorflow 
+keras
+wordcloud
+gensim==3.8.3
+pandas
+tqdm
+customized_konlpy
